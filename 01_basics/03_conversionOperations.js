@@ -1,9 +1,5 @@
-let score="33"
-console.log(typeof score);
-console.log(typeof(score));
 
-let valueInNumber = Number(score)
-
+/** 
 console.log(valueInNumber);
 console.log(typeof valueInNumber);
 
@@ -36,3 +32,9 @@ let valueInNumber3 = Number(score3)
 
 console.log(valueInNumber3);
 console.log(typeof valueInNumber3);
+*/
+// ****************Operations***************
+let value=3
+let negValue = -value
+//  nconsole.log(negValue);
+
